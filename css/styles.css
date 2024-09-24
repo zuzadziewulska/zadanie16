@@ -1,0 +1,14 @@
+*{
+    background-color: #808080;
+}
+
+h1{
+    color: white;
+    font-size: x-large;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+}
